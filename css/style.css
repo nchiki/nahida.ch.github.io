@@ -406,7 +406,7 @@ body.offcanvas {
 
 .colorlib-heading {
   font-size: 18px;
-  margin-bottom: 4em;
+  margin-bottom: 1em;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 5px;
@@ -416,7 +416,7 @@ body.offcanvas {
     display: block; }
   @media screen and (max-width: 768px) {
     .colorlib-heading {
-      margin-bottom: 1em; } }
+      margin-bottom: 3em; } }
 
 .heading-meta {
   margin-bottom: 15px;
